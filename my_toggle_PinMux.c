@@ -181,6 +181,5 @@ int main(void)
 					GPIOPinWrite(GPIO_PORTF_BASE, GPIO_PIN_2, 0x00);
 			}
 
-		
     }
 }
